@@ -1,2 +1,2 @@
-# Sweet-Tea
+# tea
 My OSS project
